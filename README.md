@@ -1,5 +1,5 @@
 # FREE RDP WINDOWS SERVER!
-
+### Use it only as a reference!
 Create Free RDP 7GB RAM and 2 CPU Core with Github.
 Follow these instructions
 
@@ -12,5 +12,3 @@ Follow these instructions
 + Go to Action (if you see any warning click "I understand...") > FreeRDP > run workflow
 + Refresh website - go to FreeRDP > build
 + Click the down arrow "RDP INFO LOGIN" To get IP, User, Password.
-
-### Use it only as a reference!
