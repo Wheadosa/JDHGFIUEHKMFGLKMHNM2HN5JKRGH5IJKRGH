@@ -13,4 +13,4 @@ Follow these instructions
 + Refresh website - go to FreeRDP > build
 + Click the down arrow "RDP INFO LOGIN" To get IP, User, Password.
 
-# Use it only as a reference!
+### Use it only as a reference!
